@@ -28,6 +28,8 @@ const Home = ({ id, go, fetchedUser }) => (
 				</Button>
 			</Div>
 		</Group>
+
+		<h1>12314515</h1>
 	</Panel>
 );
 
